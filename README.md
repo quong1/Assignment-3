@@ -32,7 +32,6 @@ truffle compiletruffle developmigrate --reset
 Solution:
 ```
 uint256 public investorMinCap = 7000000000000000000;
-uint256 public investorHardCap = 50000000000000000000;
 ```
 
 2) Add method, getTokensLeft, to report how many tokens are left. 
