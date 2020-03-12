@@ -2,8 +2,8 @@
 
 ## Reading
 The project is based on the two following readings:
-- [Part 1] (https://medium.com/crowdbotics/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-1-2789ec642308).
-- [Part 2] (https://blog.crowdbotics.com/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-2/)
+- [Part 1](https://medium.com/crowdbotics/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-1-2789ec642308).
+- [Part 2](https://blog.crowdbotics.com/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-2/)
 
 ## Dependencies
 Install these prerequisites:
