@@ -28,7 +28,7 @@ contract ExampleTokenCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale{
 	contributions[_beneficiary] = _newContribution;     
   }
   
-  function getTokensLeft(address _addr) constant returns(uint) {
+  function getTokensLeft(address _addr) view returns(uint) {
       return _addr.balance;
   }
   
