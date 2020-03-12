@@ -36,3 +36,9 @@ uint256 public investorMinCap = 7000000000000000000;
 
 2) Add method, getTokensLeft, to report how many tokens are left. 
 Solution:
+```
+function getEthBalance(address _addr) constant
+  returns(uint) {
+      return _addr.balance;
+  }
+```
