@@ -23,7 +23,8 @@ $ npm install
 ```
 ## Step 3: Compile & Deploy Election Smart Contract
 ```
-truffle compiletruffle developmigrate --reset
+truffle compile 
+truffle develop migrate --reset
 ```
 
 ## Assignment:
